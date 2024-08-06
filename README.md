@@ -9,3 +9,4 @@ The repository contains multiple projects, each located in its own directory. Be
 - Project 1 - Digital Business Card
 - Project 2 - Travel Journal
 - Project 3 - Meme Generator(may change the design.)
+-Working on notes and tenzies app(soon will upload maybe tomorrow).
