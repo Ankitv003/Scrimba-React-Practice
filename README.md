@@ -8,5 +8,5 @@
 The repository contains multiple projects, each located in its own directory. Below is a brief overview of each project:
 - Project 1 - Digital Business Card
 - Project 2 - Travel Journal
-- Project 3 - Meme Generator(may change the design.)
--Working on notes and tenzies app(soon will upload maybe tomorrow).
+- Project 3 - Meme Generator
+- Project 4 - notes app will be added here 
