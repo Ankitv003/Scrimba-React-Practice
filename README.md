@@ -10,4 +10,5 @@ The repository contains multiple projects, each located in its own directory. Be
 - Project 2 - Travel Journal
 - Project 3 - Meme Generator
 - Project 4 - notes app will be added here
-- working on tenzies app
+- Project 5 - need to add tenzies
+- Project 6 - need to add meme generator
